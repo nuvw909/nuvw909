@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Mis Certificaciones
+![Certificado de JavaScript - Coddy](./certificado_js.png)
+
+[Haz clic aquí para ver el PDF original](https://coddy.tech/certifications/Mu67Ju-javascript-Bi8cmJ)
